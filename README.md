@@ -6,12 +6,12 @@ El repositorio reúne programas independientes y proyectos modulares. Cada ejemp
 
 Estos ejercicios prácticos fueron realizados durante el cursado de diversas materias mientras estudiaba la **Licenciatura en Análisis de Sistemas (Plan 2010)** de la **Universidad Nacional de Salta**.
 
-**Materia:** ______________________________
+**Materia: Introduccion a la programacion, Teoria de la Computacion I & II**
 
 ## Contenido
 
 - [Estructura del repositorio](#estructura-del-repositorio)
-- [Introducción a C](#introducción-a-c)
+- [Introducción a la Programacion con C](#introducción-a-la-programacion-con-c)
 - [Proyecto Transversal](#proyecto-transversal)
 - [Compilación y ejecución](#compilación-y-ejecución)
 - [Estado y compatibilidad](#estado-y-compatibilidad)
@@ -41,7 +41,7 @@ Estos ejercicios prácticos fueron realizados durante el cursado de diversas mat
 └── README.md
 ```
 
-## Introducción a C
+## Introducción a la Programacion con C
 
 ### Programas simples
 
